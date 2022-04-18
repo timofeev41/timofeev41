@@ -4,6 +4,7 @@ My name is **Nikolas**, I live in :umbrella: Saint Petersburg, :ru: Russia.
 
 ### I'm interested in
 * 💻 Backend development (w/ 🐍 Python flask, django, fastapi. Average Golang microservices fan)
+* 💻 Frontend development (w/ vue3, ts)
 * 🔌 Networking (MikroTik Certified Network Associate)
 * 📑 Code documentation (mkdocs, rtd) & testing (pytest, unittest)
 
